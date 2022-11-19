@@ -2,8 +2,8 @@
 
 # 일상의 방탈출
 
-Frontend : [:detective:](#https://github.com/sherlock-escape/sherlock_front)
-Backend : [:detective:](#https://github.com/sherlock-escape/Sherlock_Back)
+Frontend : [:detective:](https://github.com/sherlock-escape/sherlock_front) <br/>
+Backend : [:detective:](https://github.com/sherlock-escape/Sherlock_Back)
 
 ## 📑 목차
 
