@@ -50,7 +50,7 @@
 
 ✔️ DevOps
 
-<img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/AWS_Route53-527FFF?style=for-the-badge&logo=AWS_Route53&logoColor=white" ><img src="https://img.shields.io/badge/GitHub Actions-181717?style=for-the-badge&logo=GitHub-Actions&logoColor=white" >
+<img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/AWS_Route53-527FFF?style=for-the-badge&logo=AWS_Route53&logoColor=white" > <img src="https://img.shields.io/badge/GitHub Actions-181717?style=for-the-badge&logo=GitHub-Actions&logoColor=white" >
 
 ✔️ Back-end 
 
