@@ -27,8 +27,6 @@
 
 ![](./src/asset/test-img.webp)
 
-프로젝트를 소개하는 내용입니다
-
 <p align="right">(<a href="#Top">맨 위로</a>)</p>
 
 ## ✨ 주요 기능
