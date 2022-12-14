@@ -18,7 +18,6 @@
 7. [🙏 도움주신분들 | Special Thanks](#-도움주신분들--special-thanks)
 
 ## 🚪 프로젝트 소개
-![KakaoTalk_Photo_2022-12-14-21-31-26](https://user-images.githubusercontent.com/109974940/207596050-550b3f63-6d34-4449-a903-55cfa27cf372.jpeg)
 
 [:globe_with_meridians:]()
 
@@ -44,6 +43,8 @@
 ## 💻 기술 스택
 
 ✔️ Front-end
+
+<img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-4.4.2-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Axios-1.1.3-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/React_Query-4.14.5-FF4154?style=for-the-badge&logo=React-Query&logoColor=white"> <img src="https://img.shields.io/badge/React_Hook_Form-7.39.1-EC5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white"> <img src="https://img.shields.io/badge/date_fns-2.29.3-5F0733?style=for-the-badge&logo=date_fns&logoColor=white"> <img src="https://img.shields.io/badge/React_Router_Dom-6.4.3-CA4245?style=for-the-badge&logo=React-Router&logoColor=white"> <img src="https://img.shields.io/badge/yup-0.32.11-6048C3?style=for-the-badge&logo=yup&logoColor=white"> <img src="https://img.shields.io/badge/rc_slider-13.1.1-E4637C?style=for-the-badge&logo=Slides&logoColor=white"> <img src="https://img.shields.io/badge/react_infinite_scroller-1.2.6-000000?style=for-the-badge&logo=Infiniti&logoColor=white"> <img src="https://img.shields.io/badge/react_kakao_maps_sdk-1.1.5-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"> <img src="https://img.shields.io/badge/react_slick-0.29.0-FF880F?style=for-the-badge&logo=slickpic&logoColor=white">
 
 
 ✔ DevOps
