@@ -18,6 +18,7 @@
 7. [🙏 도움주신분들 | Special Thanks](#-도움주신분들--special-thanks)
 
 ## 🚪 프로젝트 소개
+![KakaoTalk_Photo_2022-12-14-21-31-26](https://user-images.githubusercontent.com/109974940/207596050-550b3f63-6d34-4449-a903-55cfa27cf372.jpeg)
 
 [:globe_with_meridians:]()
 
