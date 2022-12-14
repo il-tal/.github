@@ -52,7 +52,9 @@
 
 ✔️ Back-end 
 
-<img src="https://img.shields.io/badge/Spring-2.7.5-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" > <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/QueryDsl-1.0.10-2962ff?style=for-the-badge&logo=QueryDsl&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-0.11.2-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-181717?style=for-the-badge&logo=GitHub-Actions&logoColor=white" > <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" > <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=JPA&logoColor=white" > <img src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=Java&logoColor=white" >
+<img src="https://img.shields.io/badge/Spring-2.7.5-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" > <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/QueryDsl-1.0.10-2962ff?style=for-the-badge&logo=QueryDsl&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-0.11.2-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-181717?style=for-the-badge&logo=GitHub-Actions&logoColor=white" > <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" > <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=JPA&logoColor=white" > <img src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=Java&logoColor=white" > <img src="https://img.shields.io/badge/Route53-527FFF?style=for-the-badge&logo=Route53&logoColor=white" > <img src="https://img.shields.io/badge/Route53-527FFF?style=for-the-badge&logo=Route53&logoColor=white" > <img src="https://img.shields.io/badge/Kakao_Oauth2-#FFCD00?style=for-the-badge&logo=Kakao-Oauth2&logoColor=white" >
+
+
 
 
 
@@ -262,12 +264,6 @@
 | FE                                   | FE                                      | FE                                      | BE                                     | BE                                       | BE                                      | UI/UX      |
 | ENTP                                 | INTP                                    | ENFJ                                    | ESFP                                   | ENTJ                                     | INFP                                    | ENTP       |
 | [:link:](https://github.com/clorose) | [:link:](https://github.com/Hwirin-Kim) | [:link:](https://github.com/hyemin0901) | [:link:](https://github.com/Liam-Geni) | [:link:](https://github.com/ggggraceful) | [:link:](https://github.com/soojin-dev) | [:link:]() |
-
-<p align="right">(<a href="#Top">맨 위로</a>)</p>
-
-## 📝 라이센스
-
-우리 라이센스 있음
 
 <p align="right">(<a href="#Top">맨 위로</a>)</p>
 
