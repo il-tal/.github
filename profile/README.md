@@ -18,16 +18,26 @@
 7. [🙏 도움주신분들 | Special Thanks](#-도움주신분들--special-thanks)
 
 ## 🚪 프로젝트 소개
-![KakaoTalk_Photo_2022-12-14-21-31-26](https://user-images.githubusercontent.com/109974940/207609115-5527fcaf-8c71-4c18-83a5-138c8671c20b.jpeg)
 
-[:globe_with_meridians:]()
+### 일탈 웹사이트 바로가기 [:globe_with_meridians:](https://il-tal.com/)
 
-> 지루한 일상으로부터의 일탈을 꿈꾸는 <br/>
-> 방탈출 사이트 일상의 탈출입니다.
+> 방탈출, 하고는 싶은데 뭘 해야할지 모르겠다면?? :thinking: <br/>
+> 일탈에서 방탈출 정보를 한번에 모아보고, 바로 예약사이트로 연결까지 <br/>
+> 나의 방탈출 업적을 기록해 뱃지도 받아보세요~
 
-![](./src/asset/test-img.webp)
+[![일탈](https://user-images.githubusercontent.com/109974940/207609115-5527fcaf-8c71-4c18-83a5-138c8671c20b.jpeg)](https://il-tal.com/)
 
-프로젝트를 소개하는 내용입니다
+> 일탈 웹사이트 바로가기
+
+<p align="right">(<a href="#Top">맨 위로</a>)</p>
+
+## ✨ 주요 기능
+
+- 방탈출 업체와 테마의 정보를 한번에 모아볼 수 있어요!
+- 원하는 방탈출 테마의 조건으로 검색하고 평점순,리뷰순 등으로 정렬해서 볼 수 있어요!
+- 하고 싶은 테마를 찾았다면 예약사이트로 바로 연결할 수 있어요!
+- 방탈출을 하고 해당 테마의 리뷰를 남기면 성공횟수와 실패횟수로 뱃지를 획득할 수 있어요!
+- 마음에 드는 방탈출 업체와 테마는 찜해두고 마이페이지에서 모아볼 수 있어요!
 
 <p align="right">(<a href="#Top">맨 위로</a>)</p>
 
@@ -38,7 +48,6 @@
 - 방탈출을 하고 해당 테마의 리뷰를 남기면 성공횟수와 실패횟수로 뱃지를 획득할 수 있습니다.
 - 마음에 드는 방탈출 업체와 테마는 찜해두고 마이페이지에서 모아볼 수 있습니다.
 
-
 <p align="right">(<a href="#Top">맨 위로</a>)</p>
 
 ## 💻 기술 스택
@@ -47,7 +56,6 @@
 
 <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/styled_components-4.4.2-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/Axios-1.1.3-5A29E4?style=for-the-badge&logo=Axios&logoColor=white"> <img src="https://img.shields.io/badge/React_Query-4.14.5-FF4154?style=for-the-badge&logo=React-Query&logoColor=white"> <img src="https://img.shields.io/badge/React_Hook_Form-7.39.1-EC5990?style=for-the-badge&logo=React-Hook-Form&logoColor=white"> <img src="https://img.shields.io/badge/date_fns-2.29.3-5F0733?style=for-the-badge&logo=date_fns&logoColor=white"> <img src="https://img.shields.io/badge/React_Router_Dom-6.4.3-CA4245?style=for-the-badge&logo=React-Router&logoColor=white"> <img src="https://img.shields.io/badge/yup-0.32.11-6048C3?style=for-the-badge&logo=yup&logoColor=white"> <img src="https://img.shields.io/badge/rc_slider-13.1.1-E4637C?style=for-the-badge&logo=Slides&logoColor=white"> <img src="https://img.shields.io/badge/react_infinite_scroller-1.2.6-000000?style=for-the-badge&logo=Infiniti&logoColor=white"> <img src="https://img.shields.io/badge/react_kakao_maps_sdk-1.1.5-FFCD00?style=for-the-badge&logo=Kakao&logoColor=white"> <img src="https://img.shields.io/badge/react_slick-0.29.0-FF880F?style=for-the-badge&logo=slickpic&logoColor=white">
 
-
 ✔️ DevOps
 
 <img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=Amazon%20ECS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"> <img src="https://img.shields.io/badge/AWS_Route53-527FFF?style=for-the-badge&logo=AWS_Route53&logoColor=white" > <img src="https://img.shields.io/badge/GitHub Actions-181717?style=for-the-badge&logo=GitHub-Actions&logoColor=white" >
@@ -55,14 +63,6 @@
 ✔️ Back-end 
 
 <img src="https://img.shields.io/badge/Spring-2.7.5-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" > <img src="https://img.shields.io/badge/Spring_Boot-2.7.5-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white"> <img src="https://img.shields.io/badge/QueryDsl-1.0.10-2962ff?style=for-the-badge&logo=QueryDsl&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JSON%20Web%20Tokens-0.11.2-000000?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white" > <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=for-the-badge&logo=JPA&logoColor=white" > <img src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=Java&logoColor=white" > <img src="https://img.shields.io/badge/Kakao_Oauth2-FFCD00?style=for-the-badge&logo=Kakao_Oauth2&logoColor=white" >
-
-
-
-
-
-
-
-
 
 <p align="right">(<a href="#Top">맨 위로</a>)</p>
 
