@@ -27,7 +27,6 @@
 
 [![일탈](https://user-images.githubusercontent.com/109974940/207609115-5527fcaf-8c71-4c18-83a5-138c8671c20b.jpeg)](https://il-tal.com/)
 
-> 일탈 웹사이트 바로가기
 
 <p align="right">(<a href="#Top">맨 위로</a>)</p>
 
